@@ -1,11 +1,6 @@
 function afficherInfosPersonne(personne) {
 	return (
-		personne.nom +
-		" a " +
-		personne.age +
-		" ans " +
-		"et habite à " +
-		personne.ville
+		personne.nom + " a " + personne.age + " ans et habite à " + personne.ville
 	);
 }
 
