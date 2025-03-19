@@ -2,7 +2,7 @@ function creerPersonne(nom, age, ville) {
 	// return "{nom: " + nom + ("age" + age) + ("ville" + ville + "}");
 	let persone = {
 		nom: nom,
-		metier: age,
+		age: age,
 		ville: ville,
 	};
 	return persone;
