@@ -4,6 +4,7 @@ function trouverPersonne(personnes, nom) {
 			return personnes[i];
 		}
 	}
+	return null;
 }
 
 // Tests
